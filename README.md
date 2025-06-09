@@ -1,7 +1,9 @@
 # Meta-Feedback Assistant 🔍💬
 
 A lightweight FastAPI + Gemini-powered backend for **critiquing student peer feedback**, built for UX classes but flexible enough to adapt anywhere feedback quality matters.
-Originally vibe-coded from T2C roots — now fully interactive, polished, and ready to ship.
+Originally vibe-coded from T2C roots — now fully interactive and polished.
+
+https://final-project-repo-1.onrender.com/
 
 ---
 
